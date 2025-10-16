@@ -1,0 +1,1 @@
+export const GREETER_CONTRACT_ADDRESS = process.env.PUBLIC_GREETER_CONTRACT_ADDRESS as '0x$(string)'
